@@ -26,13 +26,24 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] Mention two parts of Express that you learned about this week.
 
+Express is a server framework for Node.js.
+Express is very barebones, you need to import resources to give it the functionality you need. There is pretty much no bloat.
+
 - [ ] Describe Middleware?
+
+Middleware is a function which can be placed on end points. You can have as many middleware functions as you want.
 
 - [ ] Describe a Resource?
 
+A resource is what Express uses to expand functionality of the server.
+
 - [ ] What can the API return to help clients know if a request was successful?
 
+Status codes and error messages
+
 - [ ] How can we partition our application into sub-applications?
+
+Routes
 
 ## Project Setup
 
